@@ -1,0 +1,9 @@
+# Data for the counter application
+
+10
+5
+40
+30
+
+# 1000  -- value looks too big, skip it
+50
